@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OzeUser</string>
+    <string name="title_activity_maps">108OZE</string>
+    <string name="Service_required">Type of service required</string>
+    <string name="ok">Send</string>
+    <string name="button_send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="servicecenternumber">9003808236</string>
+    <string-array name="services">
+        <item>Fire</item>s
+        <item>Ambulance</item>
+        <item>Police</item>
+    </string-array>
+</resources>
